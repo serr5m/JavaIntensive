@@ -1,6 +1,6 @@
-package Day00;
+package Day00.ex00;
 
-public class ex00 {
+public class Program {
     public static void main(String[] args) {
         int a = 479598;
         int result = 0;
