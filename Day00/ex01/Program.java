@@ -23,11 +23,12 @@ public class Program {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        if(number < 2) {
+        if (number < 2) {
             System.out.println("Illegal Argument");
-        }else {
+        } else {
             prime(number);
         }
         scanner.close();
+        System.exit(-1);
     }
 }
