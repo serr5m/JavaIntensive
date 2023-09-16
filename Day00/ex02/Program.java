@@ -31,7 +31,6 @@ public class Program {
         while (scanner.hasNextInt()) {
            int tmp = scanner.nextInt();
             if (tmp == 42) {
-                scanner.close();
                 break;
             }
 
@@ -40,5 +39,6 @@ public class Program {
             }
         }
         System.out.println("Count of coffee-request – " + count_coffee_request);
+        scanner.close();
     }
 }
