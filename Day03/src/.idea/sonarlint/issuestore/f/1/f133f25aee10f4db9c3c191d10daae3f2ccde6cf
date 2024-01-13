@@ -1,10 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èš«ºÿÿÿÿÿ
-g
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(õéµ¨ûÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(ø¢õóýÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(øñÂÕøÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(°” Äüÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(œ‡‘ˆùÿÿÿÿ
-P	java:S125"<This block of commented-out lines of code should be removed.(ûâå8
-V	java:S125!"<This block of commented-out lines of code should be removed.(œ‡‘ˆùÿÿÿÿ
