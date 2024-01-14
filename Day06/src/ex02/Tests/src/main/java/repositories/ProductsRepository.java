@@ -2,6 +2,7 @@ package repositories;
 
 import edu.school21.models.Product;
 
+import java.sql.SQLException;
 import java.util.List;
 import java.util.Optional;
 
